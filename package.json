@@ -1,0 +1,23 @@
+{
+  "name": "afya",
+  "version": "1.0.0",
+  "description": "dashboard website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meltonzheng/afya.git"
+  },
+  "keywords": [
+    "dashboard",
+    "website"
+  ],
+  "author": "Melton Zheng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meltonzheng/afya/issues"
+  },
+  "homepage": "https://github.com/meltonzheng/afya#readme"
+}
